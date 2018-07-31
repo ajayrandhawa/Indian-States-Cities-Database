@@ -1,4 +1,4 @@
-# Indian-States-Cities-Dropdown
+# Indian-States-Cities Dropdown List
 
 Cities.js is JavaScript library to create Indian State & City dropdown lists containing all the States names and Cities names.
 

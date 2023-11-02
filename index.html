@@ -5,8 +5,9 @@
     <title>Document</title>
 </head>
 <body>
-<select onchange="print_city('state', this.selectedIndex);" id="sts" name ="stt" class="form-control" required></select>
-<select id ="state" class="form-control" required></select>
-<script language="javascript">print_state("sts");</script>
+<select onchange="print_city('city', this.selectedIndex);" id="state" name ="state" class="form-control" required></select>
+<select id ="city" class="form-control" required></select>
+<script language="javascript">print_state("state");</script>
+<script language="javascript">print_city("city");</script>
 </body>
 </html>
